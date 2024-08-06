@@ -3,4 +3,19 @@
 
 body {
   font-family: "Raleway", sans-serif;
+  background-image: url(../images/bg-mobile.png);
+  color: $Grayish-Blue;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
 }
