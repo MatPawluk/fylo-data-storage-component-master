@@ -44,6 +44,7 @@ body {
     flex-direction: row;
     align-items: flex-end;
     width: 100%;
+    margin-bottom: 150px;
   }
 }
 .container .card-logo {
